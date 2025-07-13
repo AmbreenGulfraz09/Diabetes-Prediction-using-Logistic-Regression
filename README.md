@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction Using Logistic Regression
 
-This project implements a machine learning model using **Logistic Regression** to predict whether a patient has diabetes. The model is trained on the PIMA Indian Diabetes dataset and includes steps like data cleaning, training, evaluation using confusion matrix, classification report, and ROC-AUC curve — all within a Jupyter Notebook / Google Colab environment.
+This project implements a machine learning model using **Logistic Regression** to predict whether a patient has diabetes. The model is trained on the PIMA Indian Diabetes dataset and includes steps like data cleaning, training, evaluation using confusion matrix, classification report — all within a Jupyter Notebook / Google Colab environment.
 
 ---
 
